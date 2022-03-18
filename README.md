@@ -1,1 +1,0 @@
-# loc-general-demo-ui

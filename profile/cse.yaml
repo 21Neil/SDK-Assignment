@@ -1,0 +1,11 @@
+baseURL: https://api.loc-cse.fst.network
+namespace: saffron-pd-cse
+
+dbHost: host-cse.com
+port: 1433
+username: user-cse
+password: password-cse
+
+# simpleRuntimePath: /your/path/simple-runtime
+# eventstoreEndpoint: http://10.101.24.92:8087
+# etcdEndpoints: http://10.99.133.182:2379

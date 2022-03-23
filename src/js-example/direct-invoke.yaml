@@ -1,0 +1,26 @@
+executionResultTtl:
+  nanos: 10
+  secs: 1000
+payload:
+  http:
+    apiGatewayIdentityContext:
+      digitalIdentity: string
+      id: 00000000-0000-0000-0000-000000000000
+      name: string
+      revision: 0
+    apiIdentityContext:
+      digitalIdentity: string
+      id: 00000000-0000-0000-0000-000000000000
+      name: string
+      revision: 0
+    body: string
+    headers:
+      Content-Type: application/json
+    host: string
+    method: GET
+    path: string
+    query: string
+    requestId: string
+    scheme: string
+    version: HTTP/1.1
+resultAggregationPath: /your_path/or_null

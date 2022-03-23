@@ -1,0 +1,30 @@
+tasks:
+  - dataProcessIdentityContext:
+      id: 00000000-0000-0000-0000-000000000000
+      digitalIdentity: ''
+      revision: 1
+      name: ''
+    taskId:
+      executionId: AAAAAAAAAAAAAAAAAAAAAA
+      id: AAAAAAAAAAAAAAAAAAAAAA
+    payload:
+      http:
+        apiGatewayIdentityContext:
+          id: 00000000-0000-0000-0000-000000000000
+          digitalIdentity: ''
+          revision: 1
+          name: ''
+        apiIdentityContext:
+          id: 00000000-0000-0000-0000-000000000000
+          digitalIdentity: ''
+          revision: 1
+          name: ''
+        requestId: '9487'
+        scheme: https
+        method: GET
+        path: /baba/yaga
+        query: task_id
+        version: HTTP/1.1
+        headers: {}
+        host: fst.network
+        body: InN0cmluZyI=

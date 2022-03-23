@@ -1,0 +1,11 @@
+baseURL: https://api.loc-staging.fst.network
+namespace: saffron
+
+dbHost: host-staging.com
+port: 1433
+username: user-staging
+password: password-staging
+
+# simpleRuntimePath: /your/path/simple-runtime
+# eventstoreEndpoint: http://10.101.24.92:8087
+# etcdEndpoints: http://10.99.133.182:2379

@@ -1,0 +1,8 @@
+digitalIdentity:  loc-general-demo-ui-neil-0323-api-route
+method: Get
+mode: Sync
+encapsulation: true
+name:  loc-general-demo-ui-neil-0323
+path: /loc-general-demo-ui-neil-0323
+dataProcessIds:
+  - ba29a900-c5f2-4034-900d-c9bc90982fab

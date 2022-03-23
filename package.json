@@ -1,0 +1,28 @@
+{
+  "name": "loc-general-demo-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21Neil/loc-general-demo-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21Neil/loc-general-demo-ui/issues"
+  },
+  "homepage": "https://github.com/21Neil/loc-general-demo-ui#readme",
+  "dependencies": {
+    "@saffron/logic": "github:fstnetwork/saffron-sdk#logic-1.7.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "tslib": "^2.3.1"
+  }
+}

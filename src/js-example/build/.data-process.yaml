@@ -1,0 +1,30 @@
+identityContext:
+  id: 00000000-0000-0000-0000-000000000000
+  digitalIdentity: loc-general-demo-ui-neil-0322
+  name: loc-general-demo-ui-neil-0322
+  revision: 1
+runtimeConfig: {}
+genericLogics:
+  - source:
+      Base64:
+        identityContext:
+          id: 00000000-0000-0000-0000-000000000000
+          digitalIdentity: loc-general-demo-ui-neil-0322-generic-1
+          name: loc-general-demo-ui-neil-0322-generic-1
+          revision: 0
+        codeType: JavaScript
+        code: >-
+          dmFyIG1haW49ZnVuY3Rpb24obil7InVzZSBzdHJpY3QiO3JldHVybiBuLmhhbmRsZUVycm9yPWFzeW5jIGZ1bmN0aW9uKG4sdCl7bi5hZ2VudHMubG9nZ2luZy5lcnJvcih0Lm1lc3NhZ2UpfSxuLnJ1bj1hc3luYyBmdW5jdGlvbihuKXtmZXRjaCgiLi9NYXJrZXQuRGF0YS5jc3YiKS50aGVuKChuPT5uLnRleHQoKSkpLnRoZW4oKHQ9PmZ1bmN0aW9uKHQpe2NvbnN0IGU9dC5zcGxpdCgvXHJcbnxcbi8pLHI9ZVswXS5zcGxpdCgiLCIpLGE9e307Zm9yKGxldCBuPTE7bjxlLmxlbmd0aDtuKyspe2xldCB0PWVbbl0uc3BsaXQoIiwiKSxzPXt9O2ZvcihsZXQgbj0xO248ci5sZW5ndGg7bisrKXNbcltuXV09dFtuXTthW3RbMF1dPXN9bi5hZ2VudHMuc2Vzc2lvblN0b3JhZ2UucHV0SnNvbigicmVzdWx0Iix7ZGF0YTphfSl9KHQpKSl9LE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxufSh7fSk7Z2xvYmFsVGhpcy5ydW49bWFpbi5ydW4sZ2xvYmFsVGhpcy5oYW5kbGVFcnJvcj1tYWluLmhhbmRsZUVycm9yOwo=
+    runtimeConfig: null
+aggregatorLogic:
+  source:
+    Base64:
+      identityContext:
+        id: 00000000-0000-0000-0000-000000000000
+        digitalIdentity: loc-general-demo-ui-neil-0322-aggregator
+        name: loc-general-demo-ui-neil-0322-aggregator
+        revision: 0
+      codeType: JavaScript
+      code: >-
+        dmFyIG1haW49ZnVuY3Rpb24oZSl7InVzZSBzdHJpY3QiO3JldHVybiBlLmhhbmRsZUVycm9yPWFzeW5jIGZ1bmN0aW9uKGUsbil7ZS5hZ2VudHMubG9nZ2luZy5lcnJvcihuLm1lc3NhZ2UpfSxlLnJ1bj1hc3luYyBmdW5jdGlvbihlKXtsZXQgbj1hd2FpdCBlLmFnZW50cy5zZXNzaW9uU3RvcmFnZS5nZXQoInJlc3VsdCIpO2UuYWdlbnRzLnJlc3VsdC5maW5hbGl6ZSh7cmVzdWx0Om59KX0sT2JqZWN0LmRlZmluZVByb3BlcnR5KGUsIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLGV9KHt9KTtnbG9iYWxUaGlzLnJ1bj1tYWluLnJ1bixnbG9iYWxUaGlzLmhhbmRsZUVycm9yPW1haW4uaGFuZGxlRXJyb3I7Cg==
+  runtimeConfig: null

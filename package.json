@@ -19,6 +19,7 @@
   "homepage": "https://github.com/21Neil/loc-general-demo-ui#readme",
   "dependencies": {
     "@saffron/logic": "github:fstnetwork/saffron-sdk#logic-1.7.4",
+    "bignumber.js": "^9.0.2",
     "lodash": "^4.17.21"
   },
   "devDependencies": {

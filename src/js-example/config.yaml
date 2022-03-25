@@ -1,9 +1,9 @@
 version: 0.1.0
-digitalIdentity: loc-general-demo-ui-neil-0324
-name: loc-general-demo-ui-neil-0324
+digitalIdentity: loc-general-demo-ui-neil-0325
+name: loc-general-demo-ui-neil-0325
 aggregatorLogic:
-  digitalIdentity: loc-general-demo-ui-neil-0324-aggregator
+  digitalIdentity: loc-general-demo-ui-neil-0325-aggregator
   file: aggregator-logic.js
 genericLogics:
-  - digitalIdentity: loc-general-demo-ui-neil-0324-generic-1
+  - digitalIdentity: loc-general-demo-ui-neil-0325-generic-1
     file: 1.js

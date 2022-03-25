@@ -39,5 +39,23 @@ body{
 }
 
 .price {
-  font-size: 36px;
+  font-size: 48px;
+}
+
+.change {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+  width: 300px;
+}
+
+.green {
+  color: green;
+  border: 1px solid green;
+}
+
+.red {
+  color: red;
+  border: 1px solid red;
 }
